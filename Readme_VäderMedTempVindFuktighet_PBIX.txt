@@ -11,13 +11,13 @@ VäderMedTempVindFuktighet
 
  En faktatabell och fyra värdetabeller
  En tabell för att fånga senaste refresh datetime
- En tabell för att fånga fall där värden saknas (så att de inte visas i tabell)
+ En tabell för att fånga fall där värden saknas (så att de inte visas i visualisering (tabell))
 
  Konvertering av unix datumformat (men används inte i visualiseringar, och data ser ut att fela en timme jfr med svensk vintertid)
  Hantering av problem med sortering i alfabetisk ordning med ÅÄÖ
- Skapa tabell för rangordning (ranking)
+ Skapa kolumn för rangordning (ranking)
  Skapa ny kolumn med värden utifrån range i en annan tabell
- Koppling av ikon till värde
+ Tillägg av kolumner med information, ex ikoner kopplade till värden
 
 
 # Datamodel: *
